@@ -1,5 +1,5 @@
 # PowerBI-Sales-Project-
-[PowerBi.png]
+(PowerBi.png)
 مشروع Power BI لتحليل بيانات المبيعات
 # مشروع Power BI - تحليل بيانات المبيعات
 
